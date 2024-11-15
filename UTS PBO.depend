@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731639748 source:e:\code blocks\uts pbo\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
